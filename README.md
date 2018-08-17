@@ -41,3 +41,6 @@ To do so, [drop us a line](mailto:gitshot@cocreation.studio) and tell us what pr
 
 On top of discussing your needs within issues, we will use [a milestone for each release](https://github.com/cocreation/gitshot/milestones). E.g. thanks to [v1.1.0](https://github.com/cocreation/gitshot/milestone/1) you will be able to follow what we've implemented for you within GitShot.
 
+## Contributors
+
+[jeanfw](https://github.com/jeanfw), [jpagex](https://github.com/jpagex), [ocolot](https://github.com/ocolot)
