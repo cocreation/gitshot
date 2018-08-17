@@ -2,17 +2,17 @@
 
 Let's nurture GitShot to be the most ⚡️, ✨ and 🤩 GitHub client app ever. 
 
-## We build it for you
+## We build it with/for you
 
-Tons of GitHub clients exist, but none of them seems to match our expectation. We believe that dealing with issues should be:
+Tons of GitHub clients exist, but none of them seem to match our expectations. We believe that dealing with issues should be:
 
-⚡️ Just *fast* (we mean few seconds)
+⚡️ Just *fast* (we mean a few seconds)
 
 ✨ Surprisingly easy (e.g. adding a screenshot to an issue)
 
 🤩 Wow! (vs. bored to death)
 
-If, like us, you share these belives, contribute our community by sharing with us your use cases and what you and your team is needing.
+If, like us, you share these beliefs, contribute to our community by sharing your use cases and what you and your team need.
 
 ## Community guidelines
 
@@ -32,11 +32,11 @@ We will use [a milestone for each release announcement](https://github.com/cocre
 
 Thanks! ❤️
 
-## Download
+## Download the app
 
 [Download the latest release](https://itunes.apple.com/us/app/gitshot-github-issues-client/id1344912689?mt=8)
 
-The app is paying to allow us dedicate sufficient time to make it outstanding. You know the feeling, right? 
+GitShot is a paid app to allow us to dedicate sufficient time to make it outstanding. You know the feeling, right? 
 
 If you wish to get "close to the beast" and provide extensive feedback, we would be glad to offer you the app for free. 
 To do so, [drop us a line](mailto:gitshot@cocreation.studio) and tell us what project you work.
