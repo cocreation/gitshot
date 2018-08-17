@@ -18,7 +18,7 @@ If, like us, you share these belives, contribute our community by sharing with u
 
 It seemed like a good idea to use GitShot to build GitShot. 
 
-Feel free to open issues in this repo to tell us what you need. Please feel at home here and do what you would do with your own repo.
+[Open issues in this repo](https://github.com/cocreation/gitshot/issues/new) to tell us what you need and provide feedback. Please feel at home here and do what you would do with your own repo.
 
 What we love:
 
@@ -28,6 +28,10 @@ What we love:
 
 👌 Understand in depth (main use cases first)
 
+We will use [a milestone for each release announcement](https://github.com/cocreation/gitshot/milestones). E.g. thanks to [v1.1.0](https://github.com/cocreation/gitshot/milestone/1) you will be able to follow what we've implemented for you within GitShot.
+
+Thanks! ❤️
+
 ## Download
 
 [Download the latest release](https://itunes.apple.com/us/app/gitshot-github-issues-client/id1344912689?mt=8)
@@ -36,10 +40,6 @@ The app is paying to allow us dedicate sufficient time to make it outstanding. Y
 
 If you wish to get "close to the beast" and provide extensive feedback, we would be glad to offer you the app for free. 
 To do so, [drop us a line](mailto:gitshot@cocreation.studio) and tell us what project you work.
-
-## Track improvments
-
-On top of discussing your needs within issues, we will use [a milestone for each release](https://github.com/cocreation/gitshot/milestones). E.g. thanks to [v1.1.0](https://github.com/cocreation/gitshot/milestone/1) you will be able to follow what we've implemented for you within GitShot.
 
 ## Contributors
 
